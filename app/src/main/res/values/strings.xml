@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Web View</string>
+    <string name="url">https://yandex.ru</string>
+</resources>
